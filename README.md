@@ -1,4 +1,4 @@
-# Classificador de Pássaros
+# Trabalho para disciplina de Inteligência Artificial- Classificador de Pássaros
 ## Espécies: Azulona, Macuru de pescoço branco, Jacupiranga, Cujubi, Mytunxî 
 
 Reconhecimento das espécies: Azulona, Macuru de pescoço branco, Jacupiranga, Cujubi e Mytunxî
@@ -8,5 +8,3 @@ Reconhecimento das espécies: Azulona, Macuru de pescoço branco, Jacupiranga, C
 3. Penelope pileata - Jacupiranga
 4. Aburria cujubi - Cujubi
 5. Crax fasciolata pinima - Mytunxî 
-
-Trabalho para disciplina de Inteligência Artificial
