@@ -1,5 +1,5 @@
 <h2 align="center">Trabalho para disciplina de Inteligência Artificial - Classificador de Pássaros</h2>
-<h4 align="center">Reconhecimento das espécies: Azulona, Macuru de pescoço branco, Jacupiranga, Cujubi e Mytunxî</h4>
+<h3 align="center">Reconhecimento das espécies: Azulona, Macuru de pescoço branco, Jacupiranga, Cujubi e Mytunxî</h3>
 
 <div align="center">
   <p><strong>
